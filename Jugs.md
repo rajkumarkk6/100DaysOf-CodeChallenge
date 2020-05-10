@@ -24,7 +24,7 @@ OUTPUT
 
 
 
-##Code
+# Code
 
 a = int(input())
 
